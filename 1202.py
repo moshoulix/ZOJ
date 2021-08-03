@@ -22,4 +22,3 @@ try:
         print(int(res))
 except EOFError:
     pass
-
