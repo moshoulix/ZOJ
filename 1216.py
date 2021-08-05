@@ -10,4 +10,3 @@ try:
         print('%5d     %.3f' % (n, res))
 except EOFError:
     pass
-
